@@ -1,3 +1,44 @@
+# Pik Markt
+
+An e-commerce prototype app where users can favorite and add photos to a cart. 
+
+
+## Demo
+
+https://pik-markt.herokuapp.com/
+
+### Preview 
+
+<img width="604" alt="twitter-clone" src="https://user-images.githubusercontent.com/69181038/111019957-88e26600-8390-11eb-8fdf-c77d10455d6b.jpg">
+
+## What I learned
+
+- How to use the "useParams" react router hook which helps avoid having to add extra routes to a page.
+- How to typecheck with the Proptypes library in order to ensure the correct type of data is passed through my componenets.
+- How to nest routes in a page
+- Conditional rendering with icons
+ 
+
+## Tech Stack
+
+- CSS
+- ReactJs
+- React Router
+- Prop-types library
+
+
+## License
+MIT © [Irving Henriquez](https://github.com/IrvHenri)
+
+
+### React README
+
+
+
+<details> 
+
+<summary> Click to Expand </summary>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +109,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+</details>
