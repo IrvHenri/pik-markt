@@ -26,6 +26,9 @@ https://pik-markt.herokuapp.com/
 - React Router
 - Prop-types library
 
+## Points to Mention
+
+- I ran into an issue hosting my app with my previous repository with Heroku and Firebase. I wasn't in the right directory when I installed my router and proptype dependencies. The build scripts were not able to download properly. If you'd like to view the original repo here's the link: https://github.com/IrvHenri/pik-markt-v1
 
 ## License
 MIT © [Irving Henriquez](https://github.com/IrvHenri)
