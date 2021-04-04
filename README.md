@@ -9,7 +9,7 @@ https://pik-markt.herokuapp.com/
 
 ### Preview 
 
-<img width="604" alt="twitter-clone" src="https://user-images.githubusercontent.com/69181038/111019957-88e26600-8390-11eb-8fdf-c77d10455d6b.jpg">
+<img width="604" alt="pikmartk" src="https://user-images.githubusercontent.com/69181038/113496936-b8d2e400-94cc-11eb-9704-1cc278cc69e3.jpg">
 
 ## What I learned
 
